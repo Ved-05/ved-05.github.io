@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/suvedghanmode/',
+    linkedin: 'suvedghanmode',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // researchGate: '',
